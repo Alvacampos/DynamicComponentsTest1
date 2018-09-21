@@ -1,0 +1,9 @@
+.App {
+  text-align: center;
+  margin: 5px;
+}
+.wrapper {
+	position: absolute;
+  left: 0;
+  width: 100%;
+}
