@@ -19,6 +19,7 @@ class Persons extends Component{
 		  return (
 		    <Person
 		      key = { person.id } 
+		      position = { index }
 		      name = { person.name }
 		      age = { person.age } 
 		      job = { person.job }
